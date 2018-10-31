@@ -1,0 +1,19 @@
+.jumbotron {
+  width:100%;
+  background:darkslategray;
+  border-radius:2px;
+  height: 250px;
+  position: relative;
+  box-shadow: 3px 3px 3px 6px gold;
+  text-align:center;
+  color:wheat;
+
+}
+
+h1{
+    font-size: 5rem;
+  }
+
+
+
+
